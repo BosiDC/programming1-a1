@@ -1,1 +1,1 @@
-# programming1-a1
+# Programming 1 (COSC1073)
